@@ -1,0 +1,14 @@
+body
+{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    color: red;
+    text-decoration: underline;
+}
+.logo
+{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: orange;
+    border-style: solid;
+}
